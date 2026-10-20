@@ -1,0 +1,11 @@
+{
+  "org": "florimondmanca",
+  "repo": "arel",
+  "versions": [
+    {
+      "commit": "ec8768016be115d5ff4dbad6981c916423debe97",
+      "tag": "0.5.0",
+      "parsed_at": "2026-10-20T22:07:12.401416+00:00"
+    }
+  ]
+}
